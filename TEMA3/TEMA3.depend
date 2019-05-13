@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1557521361 source:c:\users\valeria\documents\poo\tema3\main.cpp
+	<fstream>
+	<string>
+	<typeinfo>
+	<iostream>
+
